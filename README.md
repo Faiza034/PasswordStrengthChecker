@@ -34,6 +34,7 @@ A Python-based Password Strength Checker that analyzes passwords and classifies 
 ## How to Run
 
 ```bash
+python password_checker.py
 pip install customtkinter
 python password_checkergui.py
 ```
