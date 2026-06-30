@@ -16,7 +16,7 @@ A Python-based Password Strength Checker that analyzes passwords and classifies 
 
 ### Weak Password
 
-![Weak Password](screenshots/weak.png)
+![Weak Password](screenshots/week.png)
 
 ### Medium Password
 
